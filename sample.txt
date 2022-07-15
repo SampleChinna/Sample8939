@@ -2,7 +2,7 @@ import com.java.sample;
 public class Sample{
 
 public int i=50;
-
+public String str ="the is chinna";
 public void m1()
 {
  System.out.println("this is sample code changes");
